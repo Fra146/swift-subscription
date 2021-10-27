@@ -23,7 +23,9 @@
               }
           ],
           "previewImageURLs": [
-              "calculator/preview.png"
+              "calculator/prev1.png",
+              "calculator/prev2.png",
+              "calculator/prev3.png"
           ]
       }
   ]
