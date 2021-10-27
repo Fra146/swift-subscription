@@ -1,25 +1,25 @@
 {
   "formatVersion": "1.2",
-  "title": "MIT Swift Channel",
-  "publisherName": "G. Meli",
+  "title": "Fra146's Swift Showcase",
+  "publisherName": "Fra146",
   "feedIdentifier": "io.github.fra146",
   "contactURL": "mailto:francescocammarata.fr@gmail.com",
   "documents": [
       {
-          "title": "This is the feed title",
-          "overviewSubtitle": "This is the feed subtitle",
-          "description": "This is the feed description",
+          "title": "Math and Greek Calculator",
+          "overviewSubtitle": "A greek contractions and polynomials calculator",
+          "description": "Math and Greek Calculator is a greek contractions calculator that also generates and calculates polynomials.",
           "contentIdentifier": "io.github.fra146.calculator",
           "contentVersion": "1.0",
           "url": "calculator/calculator.playgroundbook.zip",
-          "publishedDate": "2017-11-13T21:13:57+00:00",
-          "lastUpdatedDate": "2017-11-13T21:13:57+00:00",
+          "publishedDate": "2021-10-26T00:00:00+00:00",
+          "lastUpdatedDate": "2021-10-27T00:00:00+00:00",
           "thumbnailURL": "calculator/thumb.png",
           "bannerImageURL": "calculator/banner.png",
           "additionalInformation": [
               {
                   "name": "Languages",
-                  "value": "English"
+                  "value": "English, Italian"
               }
           ],
           "previewImageURLs": [
