@@ -1,0 +1,32 @@
+{
+  "formatVersion": "1.2",
+  "title": "Swift Subscription Template, EDIT THIS FILE!!!!!",
+  "publisherName": "This name will appear under any book you publish",
+  "feedIdentifier": "Reverse dns of this file's location",
+  "contactURL": "mailto:Put your contact email here",
+  "documents": [
+      {
+          "title": "Void",
+          "overviewSubtitle": "Void",
+          "description": "Void",
+          "contentIdentifier": "This must start with feedIdentifier and match the playground's identifier",
+          "contentVersion": "1.0",
+          "url": "void/void.playgroundbook.zip",
+          "publishedDate": "2021-10-26T00:00:00+00:00",
+          "lastUpdatedDate": "2021-10-27T00:00:00+00:00",
+          "thumbnailURL": "void/thumb.png",
+          "bannerImageURL": "void/banner.png",
+          "additionalInformation": [
+              {
+                  "name": "Languages",
+                  "value": "English, Italian"
+              }
+          ],
+          "previewImageURLs": [
+              "void/prev1.png",
+              "void/prev2.png",
+              "void/prev3.png"
+          ]
+      }
+  ]
+}
