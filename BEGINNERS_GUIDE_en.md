@@ -20,6 +20,7 @@ This guide will walk you through the steps to use this template. Even though thi
 2. Access your new repository and click on `Settings`. Choose `Pages` from the menu on the left side. Choose `master` as your source branch and press `Save`.
 3. Your GitHub Pages website will now be available at `https://NAME_OF_YOUR_ACCOUNT.github.io`. If not, wait around 10 minutes and try to access the website again. If you're encountering further issues, check [GitHub Pages Documentation](https://docs.github.com/en/pages).
 > You can safely delete the provided void folder
+
 ![image](https://github.com/Fra146/swift-subscription/assets/61921751/7ca60d9c-1b2b-4590-9824-eec9e1ca2b85)
 
 ## Upload a swift playgrounds project
