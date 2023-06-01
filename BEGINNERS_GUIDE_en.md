@@ -20,6 +20,7 @@ This guide will walk you through the steps to use this template. Even though thi
 2. Access your new repository and click on `Settings`. Choose `Pages` from the menu on the left side. Choose `master` as your source branch and press `Save`.
 3. Your GitHub Pages website will now be available at `https://NAME_OF_YOUR_ACCOUNT.github.io`. If not, wait around 10 minutes and try to access the website again. If you're encountering further issues, check [GitHub Pages Documentation](https://docs.github.com/en/pages).
 > You can safely delete the provided void folder
+![image](https://github.com/Fra146/swift-subscription/assets/61921751/7ca60d9c-1b2b-4590-9824-eec9e1ca2b85)
 
 ## Upload a swift playgrounds project
 
@@ -27,6 +28,7 @@ This guide will walk you through the steps to use this template. Even though thi
 2. Create a new folder for your project by pressing `Add file` from the main page of your repository, then `Create new file`. On `Name your file...` type `COMMON_PROJET_NAME/.` (replace COMMON_PROJECT_NAME with the common project name you'll use during the deployment. Following my example in step one, I'd use `void`) and then, on the new field that appears, `placeholder.txt`. Scroll down and press `Commit new file`
 > For advanced usage of Git, check the [documentation](https://git-scm.com/doc).
 3. In your new folder, press `Add file`, then `Upload file`. Now **upload a compressed (.zip) version of the exported playground**, named `COMMON_PROJECT_NAME.playgroundbook.zip`. In my case, I'll use `void.playgroundbook.zip`
+![image](https://github.com/Fra146/swift-subscription/assets/61921751/81d0978e-f7bf-4ec1-8df0-90021cd4d2a7)
 
 ## Customize your page
 
@@ -49,3 +51,4 @@ Check on the right side of the root of the GitHub Repository for a `Environments
 ## Sharing the playground subscription
 
 To add the playground subscription to your own playground app, go to Swift Playground, open the `Other playground` screen, scroll down and press `Subscribe by URL`. Here, you'll have to add the precise location to the feed.json. In my case, that'll be `https://fra146.github.io/feed.json`.
+![image](https://github.com/Fra146/swift-subscription/assets/61921751/c977325a-fa0d-474d-b2fe-4dcbfb7fa013)
